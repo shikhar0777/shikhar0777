@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Shikhar Pandey -Smartyyyyyyy</h1>
-<h3 align="center">I’m guided by curiosity and a strong interest in understanding how technology and ideas can solve real problems in meaningful ways. Through the projects, research, and leadership roles I take on, I focus on learning deeply, contributing with purpose, and creating work that helps people.</h3>
+<h3 align="center">I’m guided by curiosity and a strong interest in understanding how technology and ideas can solve real problems in meaningful ways;</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shikhar0777&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
